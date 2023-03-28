@@ -1,4 +1,5 @@
 from extras.scripts import Script, MultiObjectVar
+from extras.scripts.util.common import common_stuff
 
 class TestScript(Script):
     class Meta:
